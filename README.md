@@ -6,8 +6,8 @@ O desafio deste projeto visa realizar a montagem do sistema de gerenciamento da 
 
 ## Tarefas (21/12/2023)
 - [ ] Montagem de página de login (Todos)
-- [x] Criação do repositório (Paula)
-- [x] Envio de convites aos colaboradores (Paula)
+- [x] Criação do repositório (Igor)
+- [x] Envio de convites aos colaboradores (Igor)
 
 ## Tarefas (28/12/2023)
 ## Tarefas (29/12/2023)
