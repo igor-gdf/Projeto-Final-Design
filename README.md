@@ -3,6 +3,7 @@ O desafio deste projeto visa realizar a montagem do sistema de gerenciamento da 
 
 ## Colaboradores
 - Igor Gabriel
+- Luiz Fernando
 
 ## Tarefas (21/12/2023)
 - [ ] Montagem de página de login (Todos)
