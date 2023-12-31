@@ -11,6 +11,8 @@ O desafio deste projeto visa realizar a montagem do sistema de gerenciamento da 
 - [x] Envio de convites aos colaboradores (Igor)
 
 ## Tarefas (28/12/2023)
+- [x] Montagem de página de 'Esqueci a senha' e 'Redifinir a senha' (Luiz)
+
 ## Tarefas (29/12/2023)
 ## Tarefas (04/01/2024)
 ## Tarefas (05/01/2024)
