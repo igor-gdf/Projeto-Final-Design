@@ -6,7 +6,7 @@ O desafio deste projeto visa realizar a montagem do sistema de gerenciamento da 
 - Luiz Fernando
 
 ## Tarefas (21/12/2023)
-- [ ] Montagem de página de login (Todos)
+- [x] Montagem de página de login (Todos)
 - [x] Criação do repositório (Igor)
 - [x] Envio de convites aos colaboradores (Igor)
 
