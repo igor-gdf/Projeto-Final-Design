@@ -72,7 +72,24 @@ button, .btn{
   font-size: 14px;
   font-weight: 400;
 }
-
 .title{
+  display: flex;
+  align-items: center;
+  gap: 270px;
+}
+
+.title h4{
+  width: 169px;
+  height: 48px;
+}
+
+.titlecontent{
   margin-top: 95px;
+  width: 169px;
+  height: 101px;
+}
+
+.arrowtitle{
+  position: relative;
+  top: 50px;
 }
