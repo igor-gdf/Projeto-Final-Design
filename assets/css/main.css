@@ -93,3 +93,28 @@ button, .btn{
   position: relative;
   top: 50px;
 }
+
+/* DASHBOARD */
+.sidemenu{
+  display: flex;
+  width: 297px;
+  padding: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.head-menu{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.menu{
+  display: flex;
+  width: 201px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
