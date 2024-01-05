@@ -1,11 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
+*{
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
 .container-login{
   display: flex;
-  justify-content: center;
   align-items: center;
-  flex-direction: row-reverse;
-  gap: 120px;
+  gap: 150px;
+  height: 100%;
 }
 
 .form-box, label{
@@ -16,10 +26,6 @@
 }
 .form-box, input{
   color: gray;
-}
-
-.form-group{
-  width: 410px;
 }
 
 button, .btn{
@@ -49,14 +55,15 @@ button, .btn{
 }
 
 .awe{
-  background-image: url('img/background\ 2.png');
+  background-image: url(img/background\ 2.svg);
   width: 466px;
-  height: 710px;
-}
-
-.aweimg{
+  height: 900px;
   display: flex;
   justify-content: center;
+}
+
+.awecontent{
+  text-align: center;
 }
 
 .awe h4{
@@ -75,7 +82,7 @@ button, .btn{
 .title{
   display: flex;
   align-items: center;
-  gap: 270px;
+  gap: 230px;
 }
 
 .title h4{
