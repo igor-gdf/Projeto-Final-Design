@@ -140,6 +140,7 @@ button, .btn{
   .perfil {
     display: flex;
     gap: 8px;
+    cursor: pointer;
   }
   .config-logo {
     display: flex;
@@ -158,6 +159,7 @@ button, .btn{
     color: #0095D9;
   }
 /*SIDE MENU END*/
+
 /*Dashboard*/
 .dashboard{
   width: 100vh;
@@ -224,3 +226,86 @@ button, .btn{
   font-weight: 600;
   line-height: 18.862px;
 }
+/*Edit profile*/
+
+.header-7{
+  display: flex;
+  width: 106.6667vh;
+  padding-bottom: 8px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  border-bottom: 1px solid #DDD;
+}
+.card-info-modalidade{
+  display: flex;
+  width: 172px;
+  height: 198px;
+  padding: 16px 8px;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.fotoh4{
+  color: var(--Gray-1, #333);
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.buttonedit, .buttonedit2, .buttonedit3{
+  width: 172px;
+  font-weight: 700;
+}
+.buttonedit{
+  background-color: #0095D9;
+}
+
+.buttonedit2{
+  color: #0095D9;
+}
+
+.infodown{
+  display: flex;
+  gap: 50px;
+}
+
+.dadospessoais{
+  display: flex;
+  width: 650px;
+  padding: 16px 24px 24px 24px;
+  margin-top: 25px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  border-radius: 8px;
+  border: 1px solid var(--Gray-5, #E0E0E0);
+}
+
+.grupo-campos{
+  gap: 24px;
+}
+
+.grupo-campos input{
+  background: #F2F2F2;
+}
+.campo-de-selecao-UF input{
+  background: #F2F2F2;
+}
+
+.campo-de-texto input{
+  width: 321px;
+}
+/*Perfil*/
+
+.dadospessoais table th{
+  font-weight: 400;
+}
+
+
+
+
