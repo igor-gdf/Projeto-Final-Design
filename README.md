@@ -5,26 +5,17 @@ O desafio deste projeto visa realizar a montagem do sistema de gerenciamento da 
 - Igor Gabriel
 - Luiz Fernando
 - Eric Yuri
-- Ricardo ADrian
+- Ricardo Adrian
 
 ## Tarefas (21/12/2023)
-<<<<<<< HEAD
 - [x] Montagem de página de login (Todos)
-=======
-- [x] Montagem de página de login (Luiz)
->>>>>>> 5008af98b401bcdaf383bbd847e67c1c0fe44f6c
 - [x] Criação do repositório (Igor)
 - [x] Envio de convites aos colaboradores (Igor)
 
 ## Tarefas (28/12/2023)
-<<<<<<< HEAD
-- [x] Montagem de página de 'Esqueci a senha' e 'Redifinir a senha' (Luiz)
-
-=======
-- [x] Montagem de página de login (Luiz)
->>>>>>> 5008af98b401bcdaf383bbd847e67c1c0fe44f6c
+- [x] Montagem das páginas de 'Esqueci a senha' e 'Redifinir a senha' (Luiz)
 ## Tarefas (29/12/2023)
 - [x] Montagem de página de login (Todos)
 ## Tarefas (04/01/2024)
-- [ ] Montagem de página de login (Todos)
-## Tarefas (05/01/2024)
+- [x] Montagem de página de login (Todos)
+- [x] Implementar os códigos do replit no git (Luiz)
