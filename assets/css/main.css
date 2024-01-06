@@ -301,9 +301,36 @@ button, .btn{
   width: 321px;
 }
 /*Perfil*/
-
 .dadospessoais table th{
   font-weight: 400;
+}
+/*Alterar Senha*/
+.passwordforms{
+  display: flex;
+  width: 650px;
+  padding-bottom: 30px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  border-bottom: 1px solid #DDD;
+}
+
+.passwordforms input{
+  display: flex;
+  width: 321px;
+  padding: 12px 16px;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.pbread-7-3{
+  color: #0095D9;
+  cursor: pointer;
+}
+.buttonpassword{
+  background-color: #0095D9;
+  width: 177px;
+  height: 40px;
 }
 
 
