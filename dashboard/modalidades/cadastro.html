@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro</title>
+  <link rel="stylesheet" href="../../assets/css/style.css">
+</head>
+<body>
+<!-- SIDEBAR BEGINING -->
+  <div class="menu">
+    <nav class="head-menu">
+      <div class="logo">
+        <img src="../../assets/img/logo_awe.svg" alt="logo">
+      </div>
+      <div class="menu-nav">
+        <div class="menu-item">
+          <img src="../../assets/img/dashboard.svg" alt="">
+          <p>Dashboard</p>
+        </div>
+        <div class="menu-item-2">
+          <img src="../../assets/img/modalidades.svg" alt="">
+          <p class="modalidades">Modalidades</p>
+        </div>
+        <div class="menu-item">
+          <img src="../../assets/img/sair.svg" alt="">
+          <p class="sair">Sair</p>
+        </div>
+      </div>
+    </nav>
+    <div class="config-logo">
+      <img src="../../assets/img/config_logo.svg" alt="config logo">
+    </div>
+    <div class="perfil">
+      <img src="../../assets/img/perfil.svg" alt="">  
+      <div>
+        <p><b>Jr Programador</b></p>
+        <p>Atleta</p>
+      </div>
+    </div>
+  </div>
+<!-- SIDEBAR END -->
+<!-- CONTENT BEGINING -->
+
+  <div class="content">
+    <div class="content-header">
+      <div class="breadcrumb">
+        <p>Modalidades</p>
+        <img src="../../assets/img/seta.svg" alt="seta">
+        <p>Cadastro</p>
+      </div>
+      <h3>Cadastramento de Modalidade</h3>
+    </div>
+      <div class="form">
+         <div class="formopcoes">
+           <div class="nome">
+               <p>Nome</p>
+               <input type="text" placeholder="Digite o nome da modalidade">
+           </div>
+           <div class="tipo">
+               <p>Tipo</p>
+               <div class="opcoes">
+                   <div class="form-check">
+                       <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                       <label class="form-check-label" for="flexRadioDefault1">
+                       Coletivo
+                       </label>
+                   </div>
+                   <div class="form-check">
+                       <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                       <label class="form-check-label" for="flexRadioDefault2">
+                       Individual
+                       </label>
+                   </div>
+               </div>
+           </div>
+           <div class="modalidadecadastro">
+               <p>Ícone da modalidade</p>
+               <div class="form-floating">
+                   <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                   <option selected>Selecione</option>
+                   </select>
+               </div>
+           </div>
+         </div>
+      </div>
+      <div class="btn-2">
+        <h2 class="cadastrar">Cadastrar</h2>
+      </div>
+  </div>
+</body>
